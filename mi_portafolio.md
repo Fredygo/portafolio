@@ -1,14 +1,13 @@
 
-\begin{center}
 
-# **MI PORTAFOLIO**
+<center>
+<h1> MI PORTAFOLIO </h1>
 
 ## FREDY ENRIQUE GALINDO OSMA
 ## Calle 19a No. 2-03
 ## 314 822 3897 - 5 76 24 35
 ## frosma18@hotmail.com
-
-\end{center}
+</center>
 
 
 ## **PERFIL PROFESIONAL**
