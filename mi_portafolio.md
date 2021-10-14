@@ -1,5 +1,5 @@
 
-<p align="center">
+\begin{center}
 
 # **MI PORTAFOLIO**
 
@@ -8,7 +8,7 @@
 ## 314 822 3897 - 5 76 24 35
 ## frosma18@hotmail.com
 
-</p>
+\end{center}
 
 
 ## **PERFIL PROFESIONAL**
