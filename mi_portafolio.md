@@ -1,10 +1,14 @@
 
+<p align="center">
+
 # **MI PORTAFOLIO**
 
 ## FREDY ENRIQUE GALINDO OSMA
 ## Calle 19a No. 2-03
 ## 314 822 3897 - 5 76 24 35
 ## frosma18@hotmail.com
+
+</p>
 
 
 ## **PERFIL PROFESIONAL**
@@ -19,10 +23,10 @@ VoIP, NAS, instalación y administración de dispositivos de networking, virtual
 servidores, auditorias de redes de datos, gestión de Office 365, Google Workspace, Microsoft
 Teams.
 
-# **PROYECTOS**
+## **PROYECTOS**
 
-* Desarrollo de aplicacion web Biblioteca El Dorado, Mision Tic 2022, 2021.
-* Desarrollo de proyecto de grado "PROTOTIPO DE ESTACIÓN METEOROLOGICA CON TECNOLOGIAS IOT PARA LA MEDICION DE FACTORES AMBIENTALES EN LA FACULTAD TECNOLOGICA", Universidad Distrital Francisco José de Caldas, 2021.
-* CO-INVESTIGADOR EN GRUPO DE INVESTIGACION "ANGELUS NOVUS", Universidad Distrital Francisco José de Caldas, 2019.
+* Desarrollo de aplicación web Biblioteca El Dorado, MisiÓn Tic 2022, 2021.
+* Desarrollo de proyecto de grado "PROTOTIPO DE ESTACIÓN METEOROLÓGICA CON TECNOLOGÍAS IOT PARA LA MEDICIÓN DE FACTORES AMBIENTALES EN LA FACULTAD TECNOLÓGICA", Universidad Distrital Francisco José de Caldas, 2021.
+* Miembro co-investigador en grupo de investigación "ANGELUS NOVUS", Universidad Distrital Francisco José de Caldas, 2019.
 * Auditor de redes de datos, Acceso Autorizado LTDA, 2018.
 * Analista de Ciberseguridad, INDRA Colombia SAS, 2021.
