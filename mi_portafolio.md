@@ -1,14 +1,11 @@
 
 
-<center>
-<h1> MI PORTAFOLIO </h1>
-
-## FREDY ENRIQUE GALINDO OSMA
-## Calle 19a No. 2-03
-## 314 822 3897 - 5 76 24 35
-## frosma18@hotmail.com
-</center> </br>
-
+<div align="center">
+<h1> MI PORTAFOLIO </h1> </br>
+<h2> FREDY ENRIQUE GALINDO OSMA </h2>
+<h2> Calle 19a No. 2-03 </h2>
+<h2> frosma18@hotmail.com </h2>
+</div> </br>
 
 ## **PERFIL PROFESIONAL**
 
@@ -21,6 +18,7 @@ Linux (Directorio activo, DHCP, DNS, archivos, impresión, etc), administración
 VoIP, NAS, instalación y administración de dispositivos de networking, virtualización de
 servidores, auditorias de redes de datos, gestión de Office 365, Google Workspace, Microsoft
 Teams.
+</br>
 
 ## **PROYECTOS**
 
